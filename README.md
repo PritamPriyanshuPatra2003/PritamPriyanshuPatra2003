@@ -4,9 +4,9 @@
 
 ### ☁️ Cloud Engineer • 🚀 DevOps Enthusiast • 💻 Backend Developer
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Enthusiast;Backend+Developer;AWS+Cloud;FastAPI+Developer;Always+Learning+Something+New"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+Engineer;DevOps+Enthusiast;Backend+Developer;AWS+Cloud;FastAPI+Developer;Always+Learning+New+Technologies"/>
 
-<br><br>
+<br>
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -20,15 +20,18 @@
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
 ```java
 public class Pritam {
 
-    String role = "Cloud & DevOps Engineer";
+    String role = "Cloud Engineer";
 
     String education =
-            "B.Tech in Electronics & Communication Engineering";
+        "B.Tech - Electronics & Communication Engineering";
+
+    String currentProject =
+        "CloudLedger";
 
     String interests[] = {
         "Cloud Computing",
@@ -37,84 +40,91 @@ public class Pritam {
         "AWS"
     };
 
-    String currentProject =
-            "CloudLedger";
-
 }
----
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=PritamPriyanshuPatra2003&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PritamPriyanshuPatra2003&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+```
 
 ---
 
-# 🔥 GitHub Streak
+# 🚀 Current Focus
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=PritamPriyanshuPatra2003&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamPriyanshuPatra2003&theme=tokyo-night&hide_border=true"/>
-
-</div>
+- ☁️ Cloud Computing
+- 🐳 Docker
+- 🐧 Linux
+- ⚡ FastAPI
+- 🗄️ PostgreSQL
+- 🚀 AWS
 
 ---
 
-# 🌟 Currently Working On
+# 💻 Tech Stack
 
-- 🚀 CloudLedger – Multi-Tenant FinTech SaaS Platform
-- ☁️ AWS Cloud Services
-- 🐳 Docker Containerization
-- ⚡ FastAPI Backend Development
-- 🗄️ PostgreSQL Database Design
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=fastapi"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=postgres"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://skillicons.dev/icons?i=docker"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+</p>
 
 ---
 
-# 📚 2026 Goals
+# 🚀 Featured Project
 
-- ✅ Master AWS Cloud
-- ✅ Learn Kubernetes
-- ✅ Learn Terraform
-- ✅ Build Production-ready Cloud Projects
-- ✅ Contribute to Open Source
-- ✅ Become a Cloud & DevOps Engineer
+## ☁️ CloudLedger
 
----
+Cloud-native Multi-Tenant FinTech SaaS Platform
 
-# 🤝 Connect With Me
+### Tech Stack
 
-<div align="center">
+- FastAPI
+- PostgreSQL
+- Docker
+- AWS Architecture
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+### Features
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
+- Wallet Management
+- Transaction Processing
+- REST APIs
+- Audit Logging
+- Multi-Tenant Architecture
 
 ---
-
-<div align="center">
-
-## ⭐ Thanks for visiting my profile!
-
-*"Building cloud-native applications, one project at a time."*
-
-</div>
