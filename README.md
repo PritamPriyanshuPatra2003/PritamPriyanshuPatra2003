@@ -2,9 +2,9 @@
 
 # 👋 Hi, I'm Pritam Priyanshu Patra
 
-### ☁️ Cloud Engineer • 🚀 DevOps Enthusiast • 💻 Backend Developer
+### ☁️ Cloud & DevOps Learner | 💻 Backend Developer | AWS Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+Engineer;AWS+Learner;DevOps+Enthusiast;FastAPI+Backend+Developer;Docker+%7C+Linux+%7C+PostgreSQL;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Learner;AWS+Enthusiast;FastAPI+Backend+Developer;Docker+%7C+Linux+%7C+PostgreSQL;Always+Learning+New+Technologies" />
 
 </div>
 
@@ -13,44 +13,38 @@
 # 👨‍💻 About Me
 
 - 🎓 B.Tech in Electronics & Communication Engineering
-- ☁️ Passionate about Cloud Computing and DevOps
-- 💻 Backend developer with FastAPI
+- ☁️ Interested in Cloud Computing and DevOps
+- ⚡ Building backend projects using FastAPI
 - 🐳 Learning Docker and Linux
 - 🗄️ Working with PostgreSQL
-- 📚 Continuously improving through hands-on projects
-- 🚀 Looking for opportunities in Cloud & DevOps
+- 📚 Practicing Java and problem-solving
+- 🚀 Building projects step by step to improve my skills
 
 ---
 
 # 🌱 Currently Learning
 
-- ☁️ AWS Cloud
-- 🐳 Docker
-- 🐧 Linux
-- ⚡ FastAPI
-- 🗄️ PostgreSQL
-- 🔄 DevOps Fundamentals
+- AWS Cloud
+- Docker
+- Linux
+- FastAPI
+- PostgreSQL
+- DevOps Fundamentals
 
 ---
 
 # 💻 Tech Stack
 
-### Languages
+### Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,html,css,javascript" />
+<img src="https://skillicons.dev/icons?i=java,python" />
 </p>
 
-### Backend
+### Backend & Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://skillicons.dev/icons?i=fastapi,postgres" />
 </p>
 
 ### Cloud & Tools
@@ -65,7 +59,7 @@
 
 ## ☁️ CloudLedger
 
-CloudLedger is a cloud-native multi-tenant FinTech SaaS platform built to simulate real-world financial systems.
+CloudLedger is a cloud-native Multi-Tenant FinTech SaaS platform built to simulate real-world financial transaction systems.
 
 ### Features
 
@@ -107,29 +101,9 @@ CloudLedger is a cloud-native multi-tenant FinTech SaaS platform built to simula
 
 ---
 
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PritamPriyanshuPatra2003&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=PritamPriyanshuPatra2003&theme=tokyonight&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
 # 📫 Connect With Me
 
-<p align="left">
+<p>
 
 <a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -146,7 +120,5 @@ CloudLedger is a cloud-native multi-tenant FinTech SaaS platform built to simula
 <div align="center">
 
 ### ⭐ Building scalable systems, one commit at a time.
-
-![](https://komarev.com/ghpvc/?username=PritamPriyanshuPatra2003&label=Profile+Views&color=0e75b6&style=flat)
 
 </div>
